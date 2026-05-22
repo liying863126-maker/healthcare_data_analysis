@@ -1,6 +1,7 @@
 Project goal:
 
-This project explores COVID-19 case, death, and vaccination data across countries using Python, pandas, SQL, and visualization. The goal is not only to practice a complete data analysis workflow, including data cleaning, exploratory analysis, SQL querying, and interpretation.
+This project explores COVID-19 case, death, and vaccination data across countries using Python, pandas, SQL, and visualization. The goal is to practice a complete data analysis workflow, including data cleaning, exploratory analysis, SQL querying, and interpretation.
+
 
 Key insights:
 
